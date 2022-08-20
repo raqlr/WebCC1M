@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T01:48:10.982Z" agent="5.0 (X11; CrOS x86_64 14909.100.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="lrgMqHN756v_inl1sNom" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-20T01:49:06.330Z" agent="5.0 (X11; CrOS x86_64 14909.100.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="yNmCnWdEnGps2fVttiSR" version="20.2.5" type="github">
   <diagram id="Zk_9r5JQN1q4R0DaMTSa" name="Page-1">
     <mxGraphModel dx="1038" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="-232.07" y="522.1" width="1305.85" height="351.66" as="geometry" />
         </mxCell>
         <mxCell id="GfLxlEOh-HePHIYTMGW_-25" value="&lt;h1 style=&quot;&quot;&gt;~Hello~&lt;/h1&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;&quot;&gt;I&#39;m a Science Computer freshman at the Brazilian University of Vila Velha. I&#39;m still learning how to build a website, and this is my first attempt to create a web portfolio. Here we go...&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;opacity=95;fontFamily=Times New Roman;align=center;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="290" y="240" width="260" height="140" as="geometry" />
+          <mxGeometry x="284" y="240" width="260" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="GfLxlEOh-HePHIYTMGW_-26" value="&lt;h4&gt;Learning is an endless process&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;opacity=95;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="334" y="280" width="160" height="30" as="geometry" />
+        <mxCell id="GfLxlEOh-HePHIYTMGW_-26" value="&lt;h4&gt;Learning is an endless process.&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;opacity=95;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="326" y="280" width="176" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GfLxlEOh-HePHIYTMGW_-28" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;fontColor=#000000;strokeColor=default;strokeWidth=1;fillColor=none;gradientColor=#28169C;gradientDirection=east;opacity=95;" vertex="1" parent="1">
           <mxGeometry x="358.76" y="80" width="120" height="120" as="geometry" />
