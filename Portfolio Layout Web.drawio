@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T23:49:47.427Z" agent="5.0 (X11; CrOS x86_64 14909.100.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="dANHtQg9vnoyQuLSXlSH" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-20T01:25:58.519Z" agent="5.0 (X11; CrOS x86_64 14909.100.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6qQONxgP06FwRo8mv4hL" version="20.2.5" type="github">
   <diagram id="rgVs9-a1TTidHtFovz7s" name="Page-1">
     <mxGraphModel dx="1038" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -48,6 +48,18 @@
         </mxCell>
         <mxCell id="E7WEAgX6e2Pd9mRvreSS-24" value="" style="line;strokeWidth=2;html=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="195" y="495" width="170" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-25" value="Java Script" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="105" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-26" value="Python" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="105" y="465" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-27" value="CSS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="105" y="495" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-28" value="SQL" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="105" y="520" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
