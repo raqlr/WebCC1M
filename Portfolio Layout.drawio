@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T01:24:11.931Z" agent="5.0 (X11; CrOS x86_64 14909.100.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="BhzrO6cvqdmCJZoybJvk" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-20T01:30:14.050Z" agent="5.0 (X11; CrOS x86_64 14909.100.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Z_89ktN1TszWbmvZR3UJ" version="20.2.5" type="github">
   <diagram id="Zk_9r5JQN1q4R0DaMTSa" name="Page-1">
     <mxGraphModel dx="1038" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,22 @@
           <mxGeometry x="388.76" y="125" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GfLxlEOh-HePHIYTMGW_-31" value="&lt;h3 style=&quot;&quot;&gt;About Me&lt;/h3&gt;&lt;p style=&quot;&quot;&gt;My name is Raquel Rigoni de Brito Costa. I was born and raised in Brazil. When I was 10 years old, I moved to Vancouver - BC, where I lived until 18. I graduated from Windermere Secondary School in 2019 and enrolled in Psychology at Lusófona University in Lisbon - Portugal in 2021. And now, I&#39;m studying Computer Science at the University of Vila Velha in Brazil. It has been a wild ride haha.&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p&gt;I have a great interest in science and technology development, specifically the advances in outer space technology.&amp;nbsp;Outside of work I enjoy playing video games, designing web/app layouts, and listening to podcasts about astronomy.&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;fontColor=default;opacity=95;align=left;" vertex="1" parent="1">
-          <mxGeometry x="290" y="420" width="270" height="330" as="geometry" />
+          <mxGeometry x="290" y="420" width="270" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLxlEOh-HePHIYTMGW_-32" value="Programming Languages:" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;fontColor=default;opacity=95;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="290" y="680" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLxlEOh-HePHIYTMGW_-33" value="Java Script" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;fontSize=13;fontColor=default;opacity=95;" vertex="1" parent="1">
+          <mxGeometry x="290" y="710" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLxlEOh-HePHIYTMGW_-34" value="Python" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;fontSize=13;fontColor=default;opacity=95;" vertex="1" parent="1">
+          <mxGeometry x="290" y="740" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLxlEOh-HePHIYTMGW_-35" value="CSS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;fontSize=13;fontColor=default;opacity=95;" vertex="1" parent="1">
+          <mxGeometry x="290" y="770" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GfLxlEOh-HePHIYTMGW_-36" value="SQL" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;fontSize=13;fontColor=default;opacity=95;" vertex="1" parent="1">
+          <mxGeometry x="290" y="800" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
