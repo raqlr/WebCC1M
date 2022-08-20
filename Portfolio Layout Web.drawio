@@ -1,87 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T01:47:29.081Z" agent="5.0 (X11; CrOS x86_64 14909.100.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4p9jOUp6Mdn8JyLKzRm7" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-20T12:09:22.979Z" agent="5.0 (X11; CrOS x86_64 14909.100.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="I481UXCULxby0VcISR85" version="20.2.5" type="github">
   <diagram id="rgVs9-a1TTidHtFovz7s" name="Page-1">
     <mxGraphModel dx="1038" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontColor=none;noLabel=1;" vertex="1" parent="1">
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontColor=none;noLabel=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="80" width="740" height="1030" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-3" value="&lt;h1&gt;~Hello~&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;I&#39;m a Science Computer freshman at the Brazilian University of Vila Velha. I&#39;m still learning how to build a website, and this is my first attempt to create a web portfolio. Here we go...&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-3" value="&lt;h1&gt;~Hello~&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;I&#39;m a Science Computer freshman at the Brazilian University of Vila Velha. I&#39;m still learning how to build a website, and this is my first attempt to create a web portfolio. Here we go...&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="100" y="180" width="260" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="100" y="310" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="180" y="310" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="260" y="310" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="484.5" y="180" width="209" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-17" value="Built and designed by Raquel Rigoni" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-17" value="Built and designed by Raquel Rigoni" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="330" y="1060" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-18" value="All rights reserved @" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-18" value="All rights reserved @" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="365" y="1080" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-20" value="&lt;h2&gt;About Me&lt;/h2&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;My name is Raquel Rigoni de Brito Costa. I was born and raised in Brazil. When I was 10 years old, I moved to Vancouver - BC, where I lived until 18. I graduated from Windermere Secondary School in 2019 and enrolled in Psychology at Lusófona University in Lisbon - Portugal in 2021. And now, I&#39;m studying Computer Science at the University of Vila Velha in Brazil. It has been a wild ride haha.&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;I have a great interest in science and technology development, specifically the advances in outer space technology.&lt;/font&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Outside of work I enjoy playing video games, designing web/app layouts, and listening to podcasts about astronomy.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=10;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="290" y="415" width="440" height="170" as="geometry" />
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-20" value="&lt;h2&gt;About Me&lt;/h2&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;My name is Raquel Rigoni de Brito Costa. I was born and raised in Brazil. When I was 10 years old, I moved to Vancouver - BC, where I lived until 18. I graduated from Windermere Secondary School in 2019 and enrolled in Psychology at Lusófona University in Lisbon - Portugal in 2021. And now, I&#39;m studying Computer Science at the University of Vila Velha in Brazil. It has been a wild ride haha.&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;I have a great interest in science and technology development, specifically the advances in outer space technology.&lt;/font&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Outside of work I enjoy playing video games, designing web/app layouts, and listening to podcasts about astronomy.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=10;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="290" y="395" width="440" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-21" value="Programming Languages:" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="415" width="160" height="20" as="geometry" />
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-21" value="Programming Languages:" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=14.04;fontColor=default;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="395" width="175" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-24" value="" style="line;strokeWidth=2;html=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="195" y="495" width="170" height="10" as="geometry" />
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-24" value="" style="line;strokeWidth=2;html=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="195" y="475" width="170" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-25" value="Java Script" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="135" y="465" width="80" height="30" as="geometry" />
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-25" value="Java Script" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="130" y="440" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-26" value="Python" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="135" y="495" width="80" height="30" as="geometry" />
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-26" value="Python" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="130" y="465" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-27" value="HTML + CSS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="135" y="440" width="90" height="30" as="geometry" />
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-27" value="HTML + CSS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="130" y="415" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-28" value="SQL" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="135" y="525" width="80" height="30" as="geometry" />
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-28" value="SQL" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="130" y="490" width="80" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="Linkedin" link="https://www.draw.io" id="E7WEAgX6e2Pd9mRvreSS-29">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;labelBorderColor=none;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
-            <mxGeometry x="105" y="305" width="60" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-30" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-30" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="100" y="435" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-31" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-31" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="100" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-33" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="100" y="485" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-34" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="100" y="460" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-33" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="100" y="490" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-34" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="100" y="520" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-38" value="" style="shape=actor;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-38" value="" style="shape=actor;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="564" y="225" width="50" height="70" as="geometry" />
         </mxCell>
         <UserObject label="Email" link="https://www.draw.io" id="E7WEAgX6e2Pd9mRvreSS-36">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;labelBorderColor=none;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;labelBorderColor=none;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="185" y="305" width="60" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Github" link="https://www.draw.io" id="E7WEAgX6e2Pd9mRvreSS-37">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;labelBorderColor=none;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;labelBorderColor=none;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="265" y="305" width="60" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-5" value="Photo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-5" value="Photo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="559" y="260" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="100" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Linkedin" link="https://www.draw.io" id="_kSE3208_j8AD0XmWhL0-3">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="105" y="305" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
