@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T01:40:05.981Z" agent="5.0 (X11; CrOS x86_64 14909.100.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="U1_ef01_KWA1BQV9Pn7b" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-20T01:47:29.081Z" agent="5.0 (X11; CrOS x86_64 14909.100.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4p9jOUp6Mdn8JyLKzRm7" version="20.2.5" type="github">
   <diagram id="rgVs9-a1TTidHtFovz7s" name="Page-1">
     <mxGraphModel dx="1038" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="E7WEAgX6e2Pd9mRvreSS-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="484.5" y="180" width="209" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="E7WEAgX6e2Pd9mRvreSS-5" value="Photo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="559" y="245" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E7WEAgX6e2Pd9mRvreSS-17" value="Built and designed by Raquel Rigoni" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="330" y="1060" width="180" height="20" as="geometry" />
@@ -69,6 +66,9 @@
         <mxCell id="E7WEAgX6e2Pd9mRvreSS-34" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="100" y="520" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-38" value="" style="shape=actor;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="564" y="225" width="50" height="70" as="geometry" />
+        </mxCell>
         <UserObject label="Email" link="https://www.draw.io" id="E7WEAgX6e2Pd9mRvreSS-36">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;labelBorderColor=none;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
             <mxGeometry x="185" y="305" width="60" height="40" as="geometry" />
@@ -79,6 +79,9 @@
             <mxGeometry x="265" y="305" width="60" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="E7WEAgX6e2Pd9mRvreSS-5" value="Photo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="559" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
