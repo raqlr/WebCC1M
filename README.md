@@ -1,2 +1,2 @@
 # WebCC1M
-Course web project for CC1M
+Web course project for CC1M
