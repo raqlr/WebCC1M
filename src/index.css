@@ -7,39 +7,63 @@ header{
     align-items: center;
     justify-content: center;
     background-color: burlywood;
-    padding: 10px;
+    padding: 5px;
 }
 
 img#hero{
     width: 100px;
     border-radius: 25%;
-    margin: 10px 0px 10px 40px;
+    margin: 10px 40px 10px 0px;
 }
  
 h1#hero{
     font-family: 'Aboreto', cursive;
-    font-size: medium;
-}
-
-ul{
-    display: flex;
-    justify-content: space-evenly;
-    list-style: none;
-}
-
-li a{
-    font-family: 'Aboreto', cursive;
     font-size: small;
+}
+
+h4#hero{
+    font-family: 'Aboreto', cursive;
+    font-size: 10px;
+}
+
+nav ul li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    height: 100%;
+    width: 100%;
+    justify-content: space-evenly;
+
+}
+
+nav ul li a{
+    font-family: 'Aboreto', cursive;
+    font-size: 10px;
     text-decoration: none;
     color: black;
     width: 100%;
     font-weight: 200px;
+    justify-content: center;
 }
 
-li a:hover{
+nav ul li a:hover{
     color: azure;
+    border-bottom: 3px solid rgb(237, 194, 100);
 }
 
 nav{
     background-color: rgb(250, 224, 185);
+    padding: 5px;
+}
+
+footer{
+    display: flex;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(248, 226, 198);
+    height: 20px;
 }
