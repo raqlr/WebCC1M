@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    width: 200px;
+    border-radius: 10%;
+    margin: 20px;
+}
+
+h1{
+    text-align: justify;
+    font-size: small;
+}
+
+p#hero{
+    font-size: small;
+    margin: 10px;
+    text-align: justify;
+}
+
+nav{
+    justify-content: center;
+    text-align: center;
+}
