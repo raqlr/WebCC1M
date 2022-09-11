@@ -4,8 +4,8 @@
 
 header{
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: inherit;
+    justify-content: left;
 }
 
 img{
@@ -19,6 +19,17 @@ h1{
     font-size: small;
 }
 
+h2{
+    text-align: justify;
+}
+
+p{
+    font-size: small;
+    margin: 10px;
+    text-align: justify;
+    position: inherit;
+}
+
 p#hero{
     font-size: small;
     margin: 10px;
@@ -28,4 +39,16 @@ p#hero{
 nav{
     justify-content: center;
     text-align: center;
+}
+
+footer{
+    display: flex;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 20px;
+    font-size: small;
 }
