@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+main{
+    width: 500px;
+    margin: 20px;
+    text-align: justify;
+    justify-content: center;
+}
+
+h1{
+    text-align: justify;
+    font-size: small;
+}
+
+p#hero{
+    text-align: justify;
+    font-size: small;
+}
+
+p#super{
+    text-align: justify;
+    font-size: small;
+}
+
+div#hero{
+    width: 300px;
+    margin: 50px;
+    text-align: justify;
+    border-radius: 0%;
+}
+
+img#hero{
+    width: 200px;
+    border-radius: 10%;
+    margin: 100px;
+    height: 200px;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+footer{
+    display: flex;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 20px;
+    font-size: small;
+}
