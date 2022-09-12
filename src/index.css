@@ -37,13 +37,15 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
+    /* height: 100vh; */
     margin: 0px;
 }
 
 ul{
     display: flex;
     list-style: none;
-    gap: 10px;
+    gap: 15px;
 }
 
 ul li a{
@@ -53,7 +55,6 @@ ul li a{
     position: relative;
     transition: 0.8s all linear;
     padding: 5px 10px;
-    justify-content: center;
 }
 
 ul li a:hover{
@@ -64,7 +65,7 @@ ul li a::before{
     position: absolute;
     content: '';
     bottom: 0;
-    left: 10%;
+    left: 50%;
     width: 0;
     height: 0;
     background-color: rgba(224, 224, 26, 0.979);
