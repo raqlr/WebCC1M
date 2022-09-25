@@ -4,69 +4,52 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet"/>
     <link rel="stylesheet" href="style.css">
-    <title>Website da raqs-bot</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.2/css/fontawesome.min.css">
+    <title>InovaWeb</title>
 </head>
 <body>
-    <header>
-        <div id="hero">
-            <h1 class="text-3xl p-3">~Hello~</h1>
-            <p id="hero">I'm a Science Computer freshman at the Brazilian University of Vila Velha. I'm still learning how to build a website, and this is my first attempt to create a web portfolio. Here we go...</p>
-    
-            <nav>
-                <button id="first" 
-                    class="ml-5
-                    p-2
-                    pl-5
-                    pr-5
-                    bg-transparent
-                    border-2 border-yellow-500
-                    text-yellow-500 text-lg
-                    rounded-lg
-                    hover:bg-yellow-500 hover:text-gray-100
-                    focus:border-4 focus:border-yellow-500
-                    "><a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">Email</a> 
-                </button>
-
-                <button id="second"
-                    class="ml-5
-                    p-2
-                    pl-5
-                    pr-5
-                    bg-transparent
-                    border-2 border-yellow-500
-                    text-yellow-500 text-lg
-                    rounded-lg
-                    hover:bg-yellow-500 hover:text-gray-100
-                    focus:border-4 focus:border-yellow-500
-                    "><a href="http://www.linkedin.com/in/raquel-rigoni-de-brito-costa-a06593219/" target="_blank">Linkedin</a> 
-                </button>
-
-                <button id="third"
-                    class="ml-5
-                    p-2
-                    pl-5
-                    pr-5
-                    bg-transparent
-                    border-2 border-yellow-500
-                    text-yellow-500 text-lg
-                    rounded-lg
-                    hover:bg-yellow-500 hover:text-gray-100
-                    focus:border-4 focus:border-yellow-500
-                    "><a href="http://github.com/raqs-bot/WebCC1M" target="_blank">Github</a> 
-                </button>
-            </nav>
+    <section class="header">
+        <nav>
+            <a href="main.html"><img src="fotos/logo.png"></a>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="http://127.0.0.1:5500/InovaWeb/main.html" target="_parent">HOME</a></li>
+                    <li><a href="fotos/Relatório InovaWeek I, II & III.pdf" target="_blank">RELATÓRIOS</a></li>
+                    <li><a href="fotos/Brindes.pdf" target="_blank">ESPERIÊNCIAS</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="text-box">
+            <h1>InovaWeek</h1>
+            <p>Inovação conectando sustentabilidade.<br>O maior evento de criatividade, inovação e empreendedorismo do Espírito Santo.</p>
+            <a href="https://uvv.br/" target="_blank" class="hero">Visite o Website Principal</a>
         </div>
-        <img id="hero" src="img/foto2.jpg" alt="me">
-    </header>
-    <main>
-        <h2>About Me</h2>
-        <p id="super">I'm a computer science freshman at the University of Vila Velha. This is my first attempt to build a website. Behold my skills haha. My name is Raquel Rigoni de Brito Costa. I was born and raised in Brazil. When I was 10 years old, I moved to Vancouver - BC, where I lived until 18. I graduated from Windermere Secondary School in 2019 and enrolled in Psychology at Lusófona University in Lisbon - Portugal in 2021. And now, I'm studying Computer Science at the University of Vila Velha in Brazil. It has been a wild ride haha. I have a great interest in science and technology development, specifically the advances in outer space technology. Outside of work I enjoy playing video games, designing web/app layouts, and listening to podcasts about astronomy.</p>
-    </main>
+    </section>
 
-    <footer>
-        <h6>Built and designed by @raqs-bot.</h6>
-    </footer>
+    <!-- News -->
+
+    <section id="news">
+        <h1 id="hero">Inova News</h1> 
+        <p>Com organização da Universidade Vila Velha a edição deste ano traz o lema “Inovação conectando sustentabilidade”, como convite para pensar em soluções sustentáveis, inclusivas e justas alinhadas com os 17 objetivos sustentáveis da agenda 2030 da ONU.<br>O evento vai contar com 12 atrações entre palestras com empreendedores capixabas, campeonato de robótica, concurso de cosplay, pitches, show de talentos, minicursos, entre outros. E conta com a participação de grandes empresas, como EDP, Sicob, Vale, Apex, Arcelor Mittal e Caderode.</p>
+
+        <div class="row">
+            <div class="news-col">
+                <h3>Projetos</h3>
+                <p>Durante o evento, os alunos exposeram propostas inovadoras inspiradas nos objetivos sustentáveis da ONU para superar os principais desafios enfrentados pelo Brasil e no mundo. Foram 355 trabalhos inscritos e mais de 3500 alunos envolvidos.</p>
+            </div>
+            <div class="news-col">
+                <h3>Noitada</h3>
+                <p>No palco, tivemos um show de fogos, que deixou a todos encantados.<br>Ainda tivemos o concurso de Cosplay, a ganhadora foi a Letícia Perim e também conhecemos o grupo vencedor do InovaApps que foi o CC1N!</p>
+            </div>
+            <div class="news-col">
+                <h3>Brindes</h3>
+                <p>Todas as cabanas de trabalho ofereciam brindes para agradecer os visitantes por comparecer e ouvir sobre cada projeto. Foram dados plantas, chocolates, e doces. Houve também cabanas oferecendo canetas, canecas, barrafas de água e botons para celulares.</p>
+            </div>
+        </div>
+    </section>
 </body>
 </html>
